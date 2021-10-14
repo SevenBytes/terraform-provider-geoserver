@@ -1,2 +1,2 @@
 # terraform-provider-geoserver
-Terraform provide to manage GeoServer
+Terraform provider for managing [GeoServer](http://geoserver.org)
